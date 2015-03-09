@@ -2,9 +2,6 @@
 
 I like to think of myself as an all-rounded individual, with a drive to succeed and an enthusiasm for tech and the industry that surrounds it. Having recentely graduated from university, I embarked on the whirlwind journey that is Makers Academy and learning to code. The most important thing for me now is to work in a forward thinking, agile company that provides the oppertunity to learn and contribute to the success of the business.
 
-## Skills
-
-
 ## Technical Skills
 
 <table>
@@ -100,3 +97,9 @@ I come from a creative, design based background and remain very passionate about
 - Economics and Business Management
 - First Class Honours
 - 1st team hockey
+
+### A-levels
+
+- A* Art
+- A Maths
+- A Economics
