@@ -1,6 +1,6 @@
 ## Gus Powell
 
-I like to think of myself as an all-rounded individual, with a drive to succeed and an enthusiasm for tech and the industry that surrounds it. Having recentely graduated from university, I embarked on the whirlwind journey that is Makers Academy and learning to code. The most important thing for me now is to work in a forward thinking, agile company that provides the oppertunity to learn and contribute to the success of the business.
+I like to think of myself as an all-rounded individual, with a drive to succeed and an enthusiasm for tech and the industry that surrounds it. Having recently graduated from university, I embarked on the whirlwind journey that is Makers Academy and learning to code. The most important thing for me now is to work in a forward thinking, agile company that provides the opportunity to learn and contribute to the success of the business.
 
 ## Technical Skills
 
@@ -80,6 +80,7 @@ I come from a creative, design based background and remain very passionate about
 - I was an arts illustrator of the Newcastle University newspaper.
 - A* in A-level art.
 - I have work experience in design, branding and architectural firms.
+- I can use tools such as Photoshop and Illustrator.
 
 ## Education
 
