@@ -82,7 +82,7 @@ I count myself as a very creative individual with a passion and enthusiasm for t
 
 ### Design based & creative work
 
-I come from a creative, design based background and remain very passionate about art and graphics. I believe this, married with my technical knowledge of code is a powerful combination of skills.
+I come from a creative background in design and advertising and remain very passionate about art, graphics and interfaces and layout. I believe this, married with my technical knowledge of code is a powerful combination of skills.
 
 - I can use tools such as Photoshop and Illustrator.
 - A* in A-level art.
@@ -120,15 +120,14 @@ I come from a creative, design based background and remain very passionate about
 - Work Experience at SeymourPowell product design consultancy
 
 ##Achievements
+- Art scholarship
 - Newcastle University Hockey Club
 - U18 National Hockey Champions (2011)
 - U14 National Hockey Runners Up (2006)
 - Sussex Hockey
-- South England Hockey
 - 1XI School Cricket
 - School hockey colours
 - House colours
-- Art scholarship
 - Bronze Duke of Edinburgh
 - Young Enterprise
 - 2 weeks volunteer work in Zambia building a school
