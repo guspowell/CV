@@ -77,16 +77,16 @@ I like to think of myself as an all-rounded individual, with a drive to succeed 
 
 I come from a creative, design based background and remain very passionate about art and graphics. I believe this, married with my technical knowledge of code is a powerful combination of skills.
 
-- I was an arts illustrator of the Newcastle University newspaper.
-- A* in A-level art.
-- I have work experience in design, branding and architectural firms.
 - I can use tools such as Photoshop and Illustrator.
+- A* in A-level art.
+- I was an arts illustrator of the Newcastle University newspaper.
+- I have work experience in design, branding and architectural firms.
 
 ## Education
 
 ### Makers Academy - December 14 to March 15
 
-- Curiosity and hungry passion for code
+- Curiosity and passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
