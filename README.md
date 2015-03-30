@@ -1,6 +1,13 @@
 ## Gus Powell
 
-I like to think of myself as an all-rounded individual, with a drive to succeed and an enthusiasm for tech and the industry that surrounds it. Having recently graduated from university, I embarked on the whirlwind journey that is Makers Academy and learning to code. The most important thing for me now is to work in a forward thinking, agile company that provides the opportunity to learn and contribute to the success of the business.
+- <strong>Email:</strong>		augustuspowell@me.com
+- <strong>D.O.B:</strong>		04.12.1992
+- <strong>GitHub:</strong>		[guspowell](https://github.com/guspowell)
+- <strong>LinkeIn:</strong>		[Gus Powell](uk.linkedin.com/pub/gus-powell/69/ba5/350/en
+)
+
+
+I count myself as a very creative individual with a passion and enthusiasm for tech and front end development in particular. I believe that my particular skill set - creativity, business minded and the ability to code - makes me the perfect candidate for a developer role in any forward thinking, innovative business.
 
 ## Technical Skills
 
@@ -79,7 +86,6 @@ I come from a creative, design based background and remain very passionate about
 
 - I can use tools such as Photoshop and Illustrator.
 - A* in A-level art.
-- I was an arts illustrator of the Newcastle University newspaper.
 - I have work experience in design, branding and architectural firms.
 
 ## Education
@@ -104,3 +110,26 @@ I come from a creative, design based background and remain very passionate about
 - A* Art
 - A Maths
 - A Economics
+
+
+## Work Experience
+- Work Placement at Alexander Waterworth Interiors
+- Work Placement at Williams Murray Hamm
+- Work Placement at Henderson Rowe
+- Work Experience at Pringle Richards Sharratt Architectural firm
+- Work Experience at SeymourPowell product design consultancy
+
+##Achievements
+- Newcastle University Hockey Club
+- U18 National Hockey Champions (2011)
+- U14 National Hockey Runners Up (2006)
+- Sussex Hockey
+- South England Hockey
+- 1XI School Cricket
+- School hockey colours
+- House colours
+- Art scholarship
+- Bronze Duke of Edinburgh
+- Young Enterprise
+- 2 weeks volunteer work in Zambia building a school
+- Arts Illustrator for the Courier (Newcastle - University Newspaper)
