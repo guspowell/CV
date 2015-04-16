@@ -22,7 +22,7 @@ At Makers Academy we learn to write great code, but equally important, I learnt 
 
 ### Design based & creative work
 
-I come from a creative background in design and advertising and remain very passionate about art, graphics and interfaces and layout. I believe this, married with my technical knowledge of code is a powerful combination of skills.
+I come from a creative background in design and advertising and remain passionate about art, graphics, interface and layout. I care about the little things; the tiny aesthetic details that make a website, presentation and even a research document look slick.
 
 - I can use tools such as Photoshop and Illustrator.
 - A* in A-level art.
