@@ -11,74 +11,14 @@ I count myself as a very creative individual with a passion and enthusiasm for t
 
 ## Technical Skills
 
-<table>
-  <tr>
-    <td>
-    <h4>Methodology</h4>
-    </td>
-    <td>
-    Test-Driven Development (TDD)
-    <br>Behavior-Driven Development (BDD)
-    <br>Agile Methodology & Best Practices
-    <br>SOLID Design Principles
-    <br>Pair Programming
-    <br>Version Control with Git
-    </td>
-  </tr>
-  <tr>
-    <td><h4>Languages</h4></td>
-    <td>
-      Ruby
-      <br>Javascript
-    </td>
-  </tr>
-  <tr>
-    <td><h4>Frameworks</h4></td>
-    <td>
-      Sinatra
-      <br>Rails
-      <br>ExpressJS on NodeJS
-      <br>AngularJS
-    </td>
-  </tr>
-  <tr>
-    <td><h4>Test Frameworks</h4></td>
-    <td>
-      RSpec
-      <br>Cucumber
-      <br>Capybara
-      <br>Mocha
-      <br>Chai
-      <br>Jasmine
-    </td>
-  </tr>
-  <tr>
-    <td><h4>Front-End Skills</h4></td>
-    <td>
-      HTML5
-      <br>CSS3
-      <br>jQuery
-      <br>AJAX
-      <br>Heroku
-      <br>ERB, EJS
-    </td>
-  </tr>
-  <tr>
-    <td><h4>Design</h4></td>
-    <td>
-      Adobe Photoshop
-      <br>Adobe Illustrator
-    </td>
-  </tr>
-  <tr>
-    <td><h4>Databases and ORMs</h4></td>
-    <td>
-      PostgresQL
-      <br>Datamapper
-      <br>ActiveRecord
-    </td>
-  </tr>
-</table>
+At Makers Academy we learn to write great code, but equally important, I learnt about the principles that surround great code. Development techniques, theories and practices including TDD, the SOLID principles, Agile methodology and pair programming are a few examples. During our final projects we also became accustomed to working with Trello to keep everything well organised.
+
+- Curiosity and passion for code
+- Independent learner and problem-solver
+- OOP, TDD, SOLID, MVC
+- Software Craftsmanship
+- Ruby, Rails, Javascript, Node.js, Angular,js
+- Rspec, Cucumber, Jasmine, Mocha
 
 ### Design based & creative work
 
@@ -87,6 +27,15 @@ I come from a creative background in design and advertising and remain very pass
 - I can use tools such as Photoshop and Illustrator.
 - A* in A-level art.
 - I have work experience in design, branding and architectural firms.
+
+### Management Skills
+
+Whilst studying Economics and Business Management at university, I learnt key management practices, developed practical business skills and gained important experience in working under pressure and meeting deadlines. Below are some of the key topics that were covered over the three years. Furthermore, whilst on placement at Williams Murray Hamm I was working in client services and gained a great deal of experience in managing creative projects.
+
+- Business enterprise
+- Global marketing 
+- Human resources
+- Technology management
 
 ## Education
 
