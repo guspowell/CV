@@ -1,7 +1,6 @@
 ## Gus Powell
 
-- <strong>Email:</strong>		augustuspowell@me.com
-- <strong>D.O.B:</strong>		04.12.1992
+- <strong>Personal Website</strong>		[www.guspowell.co.uk](www.guspowell.co.uk)
 - <strong>GitHub:</strong>		[guspowell](https://github.com/guspowell)
 - <strong>LinkeIn:</strong>		[Gus Powell](uk.linkedin.com/pub/gus-powell/69/ba5/350/en
 )
