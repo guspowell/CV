@@ -1,6 +1,6 @@
 ## Gus Powell
 
-- <strong>Personal Website</strong>		[www.guspowell.co.uk](www.guspowell.co.uk)
+- <strong>Personal Website</strong>		[www.guspowell.co.uk](http://www.guspowell.co.uk/)
 - <strong>GitHub:</strong>		[guspowell](https://github.com/guspowell)
 - <strong>LinkeIn:</strong>		[Gus Powell](uk.linkedin.com/pub/gus-powell/69/ba5/350/en
 )
